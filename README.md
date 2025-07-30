@@ -1,1 +1,2 @@
-# dyne
+# ResturantFinder
+A responsive restaurant listing website built with HTML and CSS, highlighting the best restaurants across Kerala. The site includes a main page showcasing featured restaurants with images and descriptions, plus complete user authentication system with login and signup pages. Features clean navigation, semantic markup, and a professional layout suitable for a local restaurant directory
